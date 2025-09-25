@@ -1,0 +1,18 @@
+leftnav:
+- identifier: 8b3982cb-24a6-78c4-6f45-eeaed17dd3a1
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus-and-calendar
+  weight: 10
+- identifier: 23173b2d-2ac9-bd6f-47a0-2d54b19168fe
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 66804546-8062-2b57-04b3-db13cbfc95bb
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 49991b29-84d7-16f6-63ca-ab63e916e360
+  name: Reading Response Essays
+  pageRef: /pages/assignments/reading-response-essays
+  parent: 66804546-8062-2b57-04b3-db13cbfc95bb
+  weight: 40
