@@ -97,9 +97,9 @@ Module 2: Language, authority, labor 
 {{< tdopen >}}
 
 
-Malinowski, Bronislaw. “The Natives of the Trobriand Islands.” Chapter 2 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with [Google Books](https://books.google.com/books?id=OAhgAwAAQBAJ&pg=PA53=onepage#v=onepage&q&f=false)\]
+Malinowski, Bronislaw. “The Natives of the Trobriand Islands.” Chapter 2 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with {{% resource_link "6287c988-2892-4c7c-9ac0-cce05675bf29" "Google Books" %}}\]
 
- ———. “The Essentials of the Kula.” Chapter 3 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with [Google Books](https://books.google.com/books?id=OAhgAwAAQBAJ&pg=PA90=onepage#v=onepage&q&f=false)\]
+ ———. “The Essentials of the Kula.” Chapter 3 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with {{% resource_link "94ebbf83-db2c-4905-919d-877a263ed1e5" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Module 1: The practice of politics 
 {{< tdopen >}}
 
 
-Bonilla, Yarimar, and Rosa Jonathan. “[#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12112).” _American Ethnologist_ 42, no. 1 (2015): 4–17.
+Bonilla, Yarimar, and Rosa Jonathan. “{{% resource_link "928113a8-cee1-4e19-865b-40b36a605560" "#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States" %}}.” _American Ethnologist_ 42, no. 1 (2015): 4–17.
 
 
 {{< tdclose >}}
@@ -175,7 +175,7 @@ Module 2: Political rhetorics 
 {{< tdopen >}}
 
 
-Silverstein, Michael. “[The ‘Message’ in the (Political) Battle](https://www.sciencedirect.com/science/article/pii/S0271530911000292).” _Language & Communication_ 31, no. 3 (2011): 203–16.
+Silverstein, Michael. “{{% resource_link "00614156-421b-4069-9f3b-fe48efed9e93" "The ‘Message’ in the (Political) Battle" %}}.” _Language & Communication_ 31, no. 3 (2011): 203–16.
 
 
 {{< tdclose >}}
@@ -216,9 +216,9 @@ Module 1: Publics 
 {{< tdopen >}}
 
 
-Wedeen, Lisa. “[The Politics of Deliberation: _Qāt_ Chews as Public Spheres in Yemen](https://read.dukeupress.edu/public-culture/article/19/1/59/31849/The-Politics-of-Deliberation-Qa-t-Chews-as-Public).” _Public Culture_ 19, no. 1 (2007): 59–84.
+Wedeen, Lisa. “{{% resource_link "c908c436-5116-4455-9791-4b682b2c8d1d" "The Politics of Deliberation: _Qāt_ Chews as Public Spheres in Yemen" %}}.” _Public Culture_ 19, no. 1 (2007): 59–84.
 
-Boyer, Dominic, and Alexei Yurchak. “[AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West](https://www.jstor.org/stable/40784459?seq=1#metadata_info_tab_contents).” _Cultural Anthropology_ 25, no. 2 (2010): 179–221.
+Boyer, Dominic, and Alexei Yurchak. “{{% resource_link "8f272e42-24c8-48b0-9757-8fb1acb57a93" "AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West" %}}.” _Cultural Anthropology_ 25, no. 2 (2010): 179–221.
 
 
 {{< tdclose >}}
@@ -284,9 +284,9 @@ Module 3: Ethnographies of states and publics imagined 
 {{< tdopen >}}
 
 
-Gupta, Akhil. “[Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State](https://www.jstor.org/stable/646708?seq=1#metadata_info_tab_contents).” _American Ethnologist_ 22, no. 2 (1995): 375–402.
+Gupta, Akhil. “{{% resource_link "22a86966-521b-40d2-83b2-d86b448606c5" "Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State" %}}.” _American Ethnologist_ 22, no. 2 (1995): 375–402.
 
-Lepselter, Susan. “[From the Earth Native’s Point of View: The Earth, the Extraterrestrial and the Natural Ground of Home](https://read.dukeupress.edu/public-culture/article/9/2/197/32257/From-the-Earth-Native-s-Point-of-View-The-Earth).” _Public Culture_ 9, no. 2 (1997): 197–208.
+Lepselter, Susan. “{{% resource_link "abb0e15b-91ce-4d83-8c8e-d9a73c6c9e3b" "From the Earth Native’s Point of View: The Earth, the Extraterrestrial and the Natural Ground of Home" %}}.” _Public Culture_ 9, no. 2 (1997): 197–208.
 
 
 {{< tdclose >}}
@@ -335,7 +335,7 @@ Module 1: Society against the state 
 
 Clastres, Pierre. _Society Against the State: Essays in Political Anthropology_. Translated by Robert Hurley in association with Abe Stein. Zone Books, 1989. ISBN: 9780942299014. 
 
-Moyn, Samuel. “[Of Savagery And Civil Society: Pierre Clastres And The Transformation Of French Political Thought](https://www.cambridge.org/core/journals/modern-intellectual-history/article/of-savagery-and-civil-society-pierre-clastres-and-the-transformation-of-french-political-thought/BCAD90F4B6E2C7AFFB5331E8EBBED271).” _Modern Intellectual History_ 1, no. 1 (2004): 55–80. 
+Moyn, Samuel. “{{% resource_link "dccb4248-e559-4cd4-b4d2-ea2fa9682e29" "Of Savagery And Civil Society: Pierre Clastres And The Transformation Of French Political Thought" %}}.” _Modern Intellectual History_ 1, no. 1 (2004): 55–80. 
 
 
 {{< tdclose >}}
@@ -370,9 +370,9 @@ Module 2: A-political governance 
 {{< tdopen >}}
 
 
-Kockelman, Paul. “NGOs, Ecotourists, and Endangered Avifauna: Immaterial Labor, Incommensurate Values, and Intersubjective Intentions,” and “From Measurement to Meaning: Standardizing and Certifying Homes and Their Inhabitance.” Chapters 1 and 4 in _The Chicken and the Quetzal: Incommensurate Ontologies and Portable Values in Guatemala’s Cloud Forest._ Duke University Press Books, 2016. ISBN: 9780822360728. \[Preview with [Google Books](https://books.google.com/books?id=ivo8CwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Kockelman, Paul. “NGOs, Ecotourists, and Endangered Avifauna: Immaterial Labor, Incommensurate Values, and Intersubjective Intentions,” and “From Measurement to Meaning: Standardizing and Certifying Homes and Their Inhabitance.” Chapters 1 and 4 in _The Chicken and the Quetzal: Incommensurate Ontologies and Portable Values in Guatemala’s Cloud Forest._ Duke University Press Books, 2016. ISBN: 9780822360728. \[Preview with {{% resource_link "b30b66f3-9d62-40bd-93a4-54b894d59234" "Google Books" %}}\]
 
-Stierl, Maurice. “[A Fleet of Mediterranean Border Humanitarians](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.12320).” _Antipode_ 50, no. 3 (2018): 704–24.
+Stierl, Maurice. “{{% resource_link "ba56378d-bd7f-45a4-a766-60c4ae1c9387" "A Fleet of Mediterranean Border Humanitarians" %}}.” _Antipode_ 50, no. 3 (2018): 704–24.
 
 
 {{< tdclose >}}
@@ -407,11 +407,11 @@ Module 3: A-political bureaucracy 
 {{< tdopen >}}
 
 
-Berda,Yael. “Prologue.” and “Dangerous Populations.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with [Google Books](https://books.google.com/books?id=a1lHDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Berda,Yael. “Prologue.” and “Dangerous Populations.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with {{% resource_link "a7cf77dc-a053-43ea-aa39-41dbdcb823c3" "Google Books" %}}\]
 
 _Recommended:_
 
-Berda,Yael. “Perpetual Emergency.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with [Google Books](https://books.google.com/books?id=a1lHDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Berda,Yael. “Perpetual Emergency.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with {{% resource_link "a7cf77dc-a053-43ea-aa39-41dbdcb823c3" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -452,7 +452,7 @@ Governing political affect 
 {{< tdopen >}}
 
 
-Bramen, Carrie Tirado. “[Niceness in a Neoliberal Age](https://read.dukeupress.edu/public-culture/article/30/2/329/133938/Niceness-in-a-Neoliberal-Age).” _Public Culture_ 30, no. 2 (2018): 329–50.
+Bramen, Carrie Tirado. “{{% resource_link "ba7ec8aa-59e9-4919-8bdf-35a8612cb6f6" "Niceness in a Neoliberal Age" %}}.” _Public Culture_ 30, no. 2 (2018): 329–50.
 
 
 {{< tdclose >}}

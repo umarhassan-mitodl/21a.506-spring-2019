@@ -80,7 +80,7 @@ Module 1: Power in language I
 {{< tdopen >}}
 
 
-Urciuoli, Bonnie. “[The Political Topography of Spanish and English: The View from a New York Puerto Rican Neighborhood](https://www.jstor.org/stable/645150?seq=1#metadata_info_tab_contents).” _American Ethnologist_ 18, no. 2 (1991), 295–310.
+Urciuoli, Bonnie. “{{% resource_link "bfc727e1-5b3e-4841-a977-1c84e7cdca3d" "The Political Topography of Spanish and English: The View from a New York Puerto Rican Neighborhood" %}}.” _American Ethnologist_ 18, no. 2 (1991), 295–310.
 
 
 {{< tdclose >}}
@@ -156,9 +156,9 @@ Module 2: Language, authority, labor II
 {{< tdopen >}}
 
 
-Malinowski, Bronislaw. “The Natives of the Trobriand Islands.” Chapter 2 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with [Google Books](https://books.google.com/books?id=OAhgAwAAQBAJ&pg=PA53=onepage#v=onepage&q&f=false)\]
+Malinowski, Bronislaw. “The Natives of the Trobriand Islands.” Chapter 2 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with {{% resource_link "6287c988-2892-4c7c-9ac0-cce05675bf29" "Google Books" %}}\]
 
- ———. “The Essentials of the Kula.” Chapter 3 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with [Google Books](https://books.google.com/books?id=OAhgAwAAQBAJ&pg=PA90=onepage#v=onepage&q&f=false)\]
+ ———. “The Essentials of the Kula.” Chapter 3 in _Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with {{% resource_link "94ebbf83-db2c-4905-919d-877a263ed1e5" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -192,11 +192,11 @@ Module 1: The practice of politics I
 {{< tdopen >}}
 
 
-Nielsen, Rasmus Kleis. “Personalized Political Communication in American Campaigns.” Chapter 1 in _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with [Google Books](https://books.google.com/books?id=D0QjX9gn-q4C&pg=PA4=onepage#v=onepage&q&f=false)\]
+Nielsen, Rasmus Kleis. “Personalized Political Communication in American Campaigns.” Chapter 1 in _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with {{% resource_link "d1c6b02f-1a38-41a7-9428-50072fe90d12" "Google Books" %}}\]
 
- ———. “Contacting Voters at Home.” Chapter 3 in _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with [Google Books](https://books.google.com/books?id=D0QjX9gn-q4C&pg=PA63=onepage#v=onepage&q&f=false)\]
+ ———. “Contacting Voters at Home.” Chapter 3 in _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with {{% resource_link "3bb74c77-9a49-4738-b4ca-0be76715b4a0" "Google Books" %}}\]
 
-Westermeyer, William H. “[Local Tea Party Groups and the Vibrancy of the Movement](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/plar.12175).” _PoLAR: Political and Legal Anthropology Review_ 39, no. S1 (2016): 121–38.
+Westermeyer, William H. “{{% resource_link "62fb3196-90ab-4d03-bc50-3d84f7f67b51" "Local Tea Party Groups and the Vibrancy of the Movement" %}}.” _PoLAR: Political and Legal Anthropology Review_ 39, no. S1 (2016): 121–38.
 
 
 {{< tdclose >}}
@@ -220,7 +220,7 @@ Module 1: The practice of politics II
 {{< tdopen >}}
 
 
-Bonilla, Yarimar, and Rosa Jonathan. “[#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12112).” _American Ethnologist_ 42, no. 1 (2015): 4–17.
+Bonilla, Yarimar, and Rosa Jonathan. “{{% resource_link "928113a8-cee1-4e19-865b-40b36a605560" "#Ferguson: Digital Protest, Hashtag Ethnography, and the Racial Politics of Social Media in the United States" %}}.” _American Ethnologist_ 42, no. 1 (2015): 4–17.
 
 
 {{< tdclose >}}
@@ -244,9 +244,9 @@ Module 2: Political rhetorics I
 {{< tdopen >}}
 
 
-Stolee, Galen, and Steve Caton. “[Twitter, Trump, and the Base: A Shift to a New Form of Presidential Talk?](https://www.journals.uchicago.edu/doi/abs/10.1086/694755)” _Signs and Society_ 6, no. 1 (2018): 147–65.
+Stolee, Galen, and Steve Caton. “{{% resource_link "f0a53dfe-9536-4532-904b-ddfa648c5409" "Twitter, Trump, and the Base: A Shift to a New Form of Presidential Talk?" %}}” _Signs and Society_ 6, no. 1 (2018): 147–65.
 
-McGranahan, Carole. “[An Anthropology of Lying: Trump and the Political Sociality of Moral Outrage](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/amet.12475).” _American Ethnologis__t_ 44, no. 2 ( 2017): 243–48.
+McGranahan, Carole. “{{% resource_link "355b17ad-8c71-4b01-9b07-1c6a209820a4" "An Anthropology of Lying: Trump and the Political Sociality of Moral Outrage" %}}.” _American Ethnologis__t_ 44, no. 2 ( 2017): 243–48.
 
 
 {{< tdclose >}}
@@ -270,7 +270,7 @@ Module 2: Political rhetorics II
 {{< tdopen >}}
 
 
-Silverstein, Michael. “[The ‘Message’ in the (Political) Battle](https://www.sciencedirect.com/science/article/pii/S0271530911000292).” _Language & Communication_ 31, no. 3 (2011): 203–16.
+Silverstein, Michael. “{{% resource_link "00614156-421b-4069-9f3b-fe48efed9e93" "The ‘Message’ in the (Political) Battle" %}}.” _Language & Communication_ 31, no. 3 (2011): 203–16.
 
 
 {{< tdclose >}}
@@ -304,13 +304,13 @@ Module 1: Publics I
 {{< tdopen >}}
 
 
-Warner, Michael. “[Publics and Counterpublics](https://muse.jhu.edu/article/26277).” _Public Culture_ 14, no. 1 (2002): 49–90.
+Warner, Michael. “{{% resource_link "710c7b2d-8167-48a5-9653-c7a7c16d70fa" "Publics and Counterpublics" %}}.” _Public Culture_ 14, no. 1 (2002): 49–90.
 
-Wedeen, Lisa. “[The Politics of Deliberation: _Qāt_ Chews as Public Spheres in Yemen](https://read.dukeupress.edu/public-culture/article/19/1/59/31849/The-Politics-of-Deliberation-Qa-t-Chews-as-Public).” _Public Culture_ 19, no. 1 (2007): 59–84.
+Wedeen, Lisa. “{{% resource_link "c908c436-5116-4455-9791-4b682b2c8d1d" "The Politics of Deliberation: _Qāt_ Chews as Public Spheres in Yemen" %}}.” _Public Culture_ 19, no. 1 (2007): 59–84.
 
 _Recommended:_
 
-Taylor, Charles. “[Modern Social Imaginaries](https://muse.jhu.edu/article/26276).” _Public Culture_ 14, no. 1 (2002): 91–124.
+Taylor, Charles. “{{% resource_link "bf24c0af-bce0-4ada-888a-ea7da290856d" "Modern Social Imaginaries" %}}.” _Public Culture_ 14, no. 1 (2002): 91–124.
 
 
 {{< tdclose >}}
@@ -334,7 +334,7 @@ Module 1: Publics II
 {{< tdopen >}}
 
 
-Boyer, Dominic, and Alexei Yurchak. “[AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West](https://www.jstor.org/stable/40784459?seq=1#metadata_info_tab_contents).” _Cultural Anthropology_ 25, no. 2 (2010): 179–221.
+Boyer, Dominic, and Alexei Yurchak. “{{% resource_link "8f272e42-24c8-48b0-9757-8fb1acb57a93" "AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Political Culture in the West" %}}.” _Cultural Anthropology_ 25, no. 2 (2010): 179–221.
 
 
 {{< tdclose >}}
@@ -360,7 +360,7 @@ Module 2: Imagined states I
 
 Geertz, Clifford. “Centers, Kings, and Charisma: Refections on the Symbolics of Power.” Chapter 6 in _Local Knowledge: Further Essays in Interpretive Anthropology_. 3rd ed. Basic Books, 1985. ISBN: 9780465041626. 
 
-Taussig, Michael. “[Viscerality, Faith and Skepticism: Another Theory of Magic](https://www.haujournal.org/index.php/hau/article/view/hau6.3.033).” _HAU: Journal of Ethnographic Theory_ 6, no.3 (2016):453–83.
+Taussig, Michael. “{{% resource_link "d3fa948b-8ae8-4c80-95a6-b9b415f4fb78" "Viscerality, Faith and Skepticism: Another Theory of Magic" %}}.” _HAU: Journal of Ethnographic Theory_ 6, no.3 (2016):453–83.
 
 
 {{< tdclose >}}
@@ -384,7 +384,7 @@ Module 2: Imagined states II
 {{< tdopen >}}
 
 
-Ferguson, James, and Akhil Gupta. “[Spatializing States: Toward an Ethnography of Neoliberal Governmentality](https://www.jstor.org/stable/3805165?seq=1#metadata_info_tab_contents).” _American Ethnologist_ 29, no. 4 (2002): 981–1002.
+Ferguson, James, and Akhil Gupta. “{{% resource_link "8aaa1b13-fe9b-43e6-a8cd-511f0f5b0a0c" "Spatializing States: Toward an Ethnography of Neoliberal Governmentality" %}}.” _American Ethnologist_ 29, no. 4 (2002): 981–1002.
 
 
 {{< tdclose >}}
@@ -408,7 +408,7 @@ Module 3: Ethnographies of states and publics imagined I
 {{< tdopen >}}
 
 
-Gupta, Akhil. “[Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State](https://www.jstor.org/stable/646708?seq=1#metadata_info_tab_contents).” _American Ethnologist_ 22, no. 2 (1995): 375–402.
+Gupta, Akhil. “{{% resource_link "22a86966-521b-40d2-83b2-d86b448606c5" "Blurred Boundaries: The Discourse of Corruption, the Culture of Politics, and the Imagined State" %}}.” _American Ethnologist_ 22, no. 2 (1995): 375–402.
 
 
 {{< tdclose >}}
@@ -432,7 +432,7 @@ Module 3: Ethnographies of states and publics imagined II
 {{< tdopen >}}
 
 
-Lepselter, Susan. “[From the Earth Native’s Point of View: The Earth, the Extraterrestrial and the Natural Ground of Home](https://read.dukeupress.edu/public-culture/article/9/2/197/32257/From-the-Earth-Native-s-Point-of-View-The-Earth).” _Public Culture_ 9, no. 2 (1997): 197–208.
+Lepselter, Susan. “{{% resource_link "abb0e15b-91ce-4d83-8c8e-d9a73c6c9e3b" "From the Earth Native’s Point of View: The Earth, the Extraterrestrial and the Natural Ground of Home" %}}.” _Public Culture_ 9, no. 2 (1997): 197–208.
 
 
 {{< tdclose >}}
@@ -496,7 +496,7 @@ Module 1: Society against the state II
 
 \[C\] Chapter 11: Society against the State.
 
-Moyn, Samuel. “[Of Savagery And Civil Society: Pierre Clastres And The Transformation Of French Political Thought](https://www.cambridge.org/core/journals/modern-intellectual-history/article/of-savagery-and-civil-society-pierre-clastres-and-the-transformation-of-french-political-thought/BCAD90F4B6E2C7AFFB5331E8EBBED271).” _Modern Intellectual History_ 1, no. 1 (2004): 55–80. 
+Moyn, Samuel. “{{% resource_link "dccb4248-e559-4cd4-b4d2-ea2fa9682e29" "Of Savagery And Civil Society: Pierre Clastres And The Transformation Of French Political Thought" %}}.” _Modern Intellectual History_ 1, no. 1 (2004): 55–80. 
 
 
 {{< tdclose >}}
@@ -520,7 +520,7 @@ Module 2: A-political governance I
 {{< tdopen >}}
 
 
-\[K\] Chapter 1: NGOs, Ecotourists, and Endangered Avifauna: Immaterial Labor, Incommensurate Values, and Intersubjective Intentions. \[Preview with [Google Books](https://books.google.com/books?id=ivo8CwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[K\] Chapter 1: NGOs, Ecotourists, and Endangered Avifauna: Immaterial Labor, Incommensurate Values, and Intersubjective Intentions. \[Preview with {{% resource_link "b30b66f3-9d62-40bd-93a4-54b894d59234" "Google Books" %}}\]
 
 Ferguson, James. “The Anti-Politics Machine.” Chapter 11 in _The Anthropology of the State: A Reader_. Edited by Aradhana Sharma and Akhil Gupta. Wiley-Blackwell, 2006. ISBN: 9781405114684.
 
@@ -576,7 +576,7 @@ Module 2: A-political governance III
 {{< tdopen >}}
 
 
-Stierl, Maurice. “[A Fleet of Mediterranean Border Humanitarians](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.12320).” _Antipode_ 50, no. 3 (2018): 704–24.
+Stierl, Maurice. “{{% resource_link "ba56378d-bd7f-45a4-a766-60c4ae1c9387" "A Fleet of Mediterranean Border Humanitarians" %}}.” _Antipode_ 50, no. 3 (2018): 704–24.
 
 
 {{< tdclose >}}
@@ -600,9 +600,9 @@ Module 3: A-political bureaucracy I
 {{< tdopen >}}
 
 
-Graeber, David. “[Dead Zones of the Imagination: On Violence, Bureaucracy, and Interpretive Labor](https://www.haujournal.org/index.php/hau/article/view/hau2.2.007).” _HAU: Journal of Ethnographic Theory_ 2, no. 2 (2012): 105–28.
+Graeber, David. “{{% resource_link "7e0d1cb7-4581-4098-abcb-1563a2c897e4" "Dead Zones of the Imagination: On Violence, Bureaucracy, and Interpretive Labor" %}}.” _HAU: Journal of Ethnographic Theory_ 2, no. 2 (2012): 105–28.
 
-Winner, Langdon. “[Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?origin=JSTOR-pdf&seq=1#metadata_info_tab_contents)” _Daedalus_ 109, no. 1 (1980): 121–36.
+Winner, Langdon. “{{% resource_link "1321645a-23ca-4fed-a108-9f1e42710c2f" "Do Artifacts Have Politics?" %}}” _Daedalus_ 109, no. 1 (1980): 121–36.
 
 
 {{< tdclose >}}
@@ -626,13 +626,13 @@ Module 3: A-political bureaucracy II
 {{< tdopen >}}
 
 
-Berda,Yael. “Prologue,” and “Dangerous Populations.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with [Google Books](https://books.google.com/books?id=a1lHDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Berda,Yael. “Prologue,” and “Dangerous Populations.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with {{% resource_link "a7cf77dc-a053-43ea-aa39-41dbdcb823c3" "Google Books" %}}\]
 
-Birkin, David. “[Cyclura Nubila: The Iguanas of Guantánamo](http://www.cabinetmagazine.org/issues/59/birkin.php).” _Cabinet Magazine_ 59 (2015): 46–53.
+Birkin, David. “{{% resource_link "48adccad-e93f-4945-ae12-7000e27fa834" "Cyclura Nubila: The Iguanas of Guantánamo" %}}.” _Cabinet Magazine_ 59 (2015): 46–53.
 
 _Recommended:_
 
-Berda, Yael. “Perpetual Emergency.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with [Google Books](https://books.google.com/books?id=a1lHDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Berda, Yael. “Perpetual Emergency.” In _Living Emergency: Israel’s Permit Regime in the Occupied West Bank_. Stanford University Press, 2017. ISBN: 9781503602823. \[Preview with {{% resource_link "a7cf77dc-a053-43ea-aa39-41dbdcb823c3" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -666,9 +666,9 @@ Governing political affect I
 {{< tdopen >}}
 
 
-Shoshan, Nitzan. “[Managing Hate: Political Delinquency and Affective Governance in Germany](https://anthrosource.onlinelibrary.wiley.com/doi/10.14506/ca29.1.09).” _Cultural Anthropology_ 29, no. 1 (2014): 150–72.
+Shoshan, Nitzan. “{{% resource_link "4b9991ca-5eff-4117-a4f4-43c5ffbaf86a" "Managing Hate: Political Delinquency and Affective Governance in Germany" %}}.” _Cultural Anthropology_ 29, no. 1 (2014): 150–72.
 
-Povinelli, Elizabeth A. “[What Do White People Want?: Interest, Desire, and Affect in Late Liberalism](https://conversations.e-flux.com/t/elizabeth-a-povinelli-what-do-white-people-want-interest-desire-and-affect-in-late-liberalism/5845).” e-flux. January 2017.
+Povinelli, Elizabeth A. “{{% resource_link "76f25fe5-41e5-4021-8c34-d78f06d6e8d2" "What Do White People Want?: Interest, Desire, and Affect in Late Liberalism" %}}.” e-flux. January 2017.
 
 
 {{< tdclose >}}
@@ -692,7 +692,7 @@ Governing political affect II
 {{< tdopen >}}
 
 
-Bramen, Carrie Tirado. “[Niceness in a Neoliberal Age](https://read.dukeupress.edu/public-culture/article/30/2/329/133938/Niceness-in-a-Neoliberal-Age).” _Public Culture_ 30, no. 2 (2018): 329–50.
+Bramen, Carrie Tirado. “{{% resource_link "ba7ec8aa-59e9-4919-8bdf-35a8612cb6f6" "Niceness in a Neoliberal Age" %}}.” _Public Culture_ 30, no. 2 (2018): 329–50.
 
 
 {{< tdclose >}}
@@ -716,7 +716,7 @@ Governing political affect III
 {{< tdopen >}}
 
 
-Mazzarella, William. “[Totalitarian Tears: Does the Crowd Really Mean It?](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.14506/ca30.1.06)” _Cultural Anthropology_ 30, no. 1 (2015): 91–112.
+Mazzarella, William. “{{% resource_link "d7c5e90a-6c97-46e3-8505-90ebb8731fde" "Totalitarian Tears: Does the Crowd Really Mean It?" %}}” _Cultural Anthropology_ 30, no. 1 (2015): 91–112.
 
 
 {{< tdclose >}}

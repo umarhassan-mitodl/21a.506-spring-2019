@@ -97,14 +97,14 @@ There are two books I encourage you to buy, because we will be reading much of t
 
 Clastres, Pierre. _Society Against the State: Essays in Political Anthropology_. Translated by Robert Hurley in association with Abe Stein. Zone Books, 1989. ISBN: 9780942299014. 
 
-Kockelman, Paul. _The Chicken and the Quetzal: Incommensurate Ontologies and Portable Values in Guatemala’s Cloud Forest._ Duke University Press Books, 2016. ISBN: 9780822360728. \[Preview with [Google Books](https://books.google.com/books?id=ivo8CwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Kockelman, Paul. _The Chicken and the Quetzal: Incommensurate Ontologies and Portable Values in Guatemala’s Cloud Forest._ Duke University Press Books, 2016. ISBN: 9780822360728. \[Preview with {{% resource_link "b30b66f3-9d62-40bd-93a4-54b894d59234" "Google Books" %}}\]
 
 The other texts are articles and book chapters and can be found in the {{% resource_link 23173b2d-2ac9-bd6f-47a0-2d54b19168fe "Readings" %}} section.
 
 Citations
 ---------
 
-Plagiarism is a serious offense. It's also wrong. If your text repeats part of another text verbatim, use quotation marks and include the source in parentheses (author's last name, year: page number). If your text paraphrases another, include the source from which you've borrowed ideas in parentheses (author's last name, year). For more information on citation formats, check out the [Chicago Manual of Style Online](https://www.chicagomanualofstyle.org/home.html).
+Plagiarism is a serious offense. It's also wrong. If your text repeats part of another text verbatim, use quotation marks and include the source in parentheses (author's last name, year: page number). If your text paraphrases another, include the source from which you've borrowed ideas in parentheses (author's last name, year). For more information on citation formats, check out the {{% resource_link "83abf11c-22e7-4e7c-9797-245ea821e865" "Chicago Manual of Style Online" %}}.
 
 Calendar
 --------
